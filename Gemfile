@@ -24,7 +24,7 @@ gem "bcrypt", "~> 3.1.2"
 gem "rotp"
 gem "rqrcode"
 
-gem "nokogiri", "= 1.6.8"
+gem "nokogiri", "1.11.4"
 gem "htmlentities"
 gem "commonmarker", "~> 0.17.9"
 
